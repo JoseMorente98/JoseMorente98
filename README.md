@@ -46,3 +46,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[![Jose Morente's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoseMorente98)](https://github.com/anuraghazra/github-readme-stats)
+
