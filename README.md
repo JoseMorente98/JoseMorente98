@@ -30,9 +30,6 @@
 
 <h1></h1>
 
-![Snake animation](https://github.com/JoseMorente98/JoseMorente98/blob/main/github-contribution-grid-snake.svg)
-
-<h1></h1>
 <p align="center">
   <strong>Check out my work below!</strong>
   <br><br>
